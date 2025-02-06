@@ -1,2 +1,5 @@
 My name is Eden.
 I am a grad student coordinator for TIMESTEP.
+
+My favorite language is python.
+My least favorite language is c++.
